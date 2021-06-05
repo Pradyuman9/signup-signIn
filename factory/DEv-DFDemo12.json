@@ -1,0 +1,9 @@
+{
+	"name": "DEv-DFDemo12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0002a632-986b-4ff9-bebe-05fc7d7e69fd",
+		"tenantId": "1fa3293b-7920-42a0-9bb4-c4ca67358c8a"
+	}
+}
